@@ -6,7 +6,7 @@ This will eventually be an OS with craps programmed into the shell.
 Maybe not craps but dice digit random number generators?
 Depends on the size of the program.
 How small is lite and portable?
-is 512MB to small?
+is 512MB too small?
 There are already OS's out there that does it.
 But I like my idea
 
