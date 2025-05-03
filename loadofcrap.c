@@ -5,37 +5,38 @@
 #include <ctype.h>
 
 //Constants
-int prinamt = [$100]
+int princamt = [$100]
 int d1 = [1,2,3,4,5,6]
 int d2 = [1,2,3,4,5,6]
 int mybet;
 int droll = [d1+d2]
-int point =
+int point = point
+int pass = pass
+int npass = no pass
 
 //Place Bets
 int main() {
   
-  printf(%s, "Principal Amount: %d", prinamt);
+  printf(%s, "Principal Amount: %d", princamt);
   
   printf("Enter Bet: \n");
     scanf("%d", &mybet);
   
-  printf("Principal Amount: %d", prinamt-mybet);
+  printf("Principal Amount: %d", princamt-mybet);
 
-//Pass or No Pass
+//The Game Begins
   printf(%s, "Pass or No Pass?");
-  /*user input for Pass or No Pass = y/n?*/
-  /*Main Function: Roll the Dice*/
-
+  scanf("%s", 'pass');
+  scanf("%s", 'no pass');
   printf("Press Enter to Roll the Dice!");
-  /*how do i want to input to roll the dice?*/
-  scanf()
 
+/*Create function to scan and add dice array*/
+/*2 rand() 1-6 = droll*/
   printf(%d, droll);
-    If droll = 7 = no pass
+    If droll = 7 = npass
       else = pass
 
-pass = point
+/*pass = point*/
 if droll = point = win
 win = mybet*2+prinamt
   7 = lose
