@@ -23,3 +23,5 @@ Craps might to too harsh a word, if I call it Shell.C it may sound softer on the
 "what's the point of the craps games?
 
 "you dont need it, it's just there."
+
+"Who came up with is shit?"
