@@ -18,3 +18,6 @@ Craps might to too harsh a word, if I call it Shell.C it may sound softer on the
 
 "Shell.C, a little shell with a load of crap."
 
+"what's the point of the craps games?
+
+"you dont it, it's just there."
