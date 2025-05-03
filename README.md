@@ -10,14 +10,16 @@ is 512MB to small?
 There are already OS's out there that does it.
 But I like my idea
 
-Lite Portable Perfect for S.C. Devices
+Lite Portable Perfect for S.Craps Devices
 
 Roll the Dice on this Device.
 
 Craps might to too harsh a word, if I call it Shell.C it may sound softer on the ears.
 
-"Shell.C, a little shell with a load of crap."
+"Shell.C or S.Craps, a little shell with a load of crap."
+
+"it's written in C"
 
 "what's the point of the craps games?
 
-"you dont it, it's just there."
+"you dont need it, it's just there."
