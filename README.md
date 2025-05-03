@@ -1,6 +1,7 @@
 # S.Craps
 
 Just roll the dice!
+
 This will eventually be an OS with craps programmed into the shell.
 Maybe not craps but dice digit random number generators?
 Depends on the size of the program.
