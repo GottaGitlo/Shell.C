@@ -40,6 +40,15 @@ if droll = point = win
 win = mybet*2+prinamt
   7 = lose
 lose = mybet-prinamt
+  else printf("Reroll.")
+  //User input to reroll
+
+//Loop Command here
+  If Win = Loop
+  If Lose = Loop
+
+//User input to quit program
+  /*should I include and exit prompt?*/
 
 return 0;
 }
