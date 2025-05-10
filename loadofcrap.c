@@ -4,6 +4,8 @@
 #include <math.h>
 #include <ctype.h>
 
+//////Street Craps//////
+
 //Constants
 int princamt = [$100]
 int d1 = [1,2,3,4,5,6]
